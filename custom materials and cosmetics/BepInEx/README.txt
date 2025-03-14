@@ -1,0 +1,1 @@
+please make sure to put the plugin stuff into your plugins folder
